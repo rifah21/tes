@@ -1,0 +1,1 @@
+﻿var textForPages = ["HAAIIII                   MY NAME IS ARIFAH                  NOW I WAS A COLLANGE AND YOU KNOW WHAT                     PEMBIMBINGKU TIDAK PERNAH NA BACA PROPOSAL KU                      SEDIH YAH","MAU MI DI APA                        ADA ADA JI ITU HAHAHA","HIKS"];

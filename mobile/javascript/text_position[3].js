@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"HIKS ",left:0.120969,top:0.114730,width:0.038438,height:0.013068}]};
